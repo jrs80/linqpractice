@@ -1,0 +1,8 @@
+C:\git_repos\linqpractice\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\git_repos\linqpractice\LINQPractice\bin\Debug\LINQPractice.exe
+C:\git_repos\linqpractice\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\git_repos\linqpractice\LINQPractice\obj\Debug\LINQPractice.csproj.AssemblyReference.cache
+C:\git_repos\linqpractice\LINQPractice\obj\Debug\LINQPractice.csproj.SuggestedBindingRedirects.cache
+C:\git_repos\linqpractice\LINQPractice\obj\Debug\LINQPractice.csproj.CoreCompileInputs.cache
+C:\git_repos\linqpractice\LINQPractice\obj\Debug\LINQPractice.exe
+C:\git_repos\linqpractice\LINQPractice\obj\Debug\LINQPractice.pdb
